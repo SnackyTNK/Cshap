@@ -1,0 +1,9 @@
+C:\Cshap\Algorithym\Algorithym\bin\Debug\Algorithym.exe.config
+C:\Cshap\Algorithym\Algorithym\bin\Debug\Algorithym.exe
+C:\Cshap\Algorithym\Algorithym\bin\Debug\Algorithym.pdb
+C:\Cshap\Algorithym\Algorithym\obj\Debug\Algorithym.csproj.AssemblyReference.cache
+C:\Cshap\Algorithym\Algorithym\obj\Debug\Algorithym.Properties.Resources.resources
+C:\Cshap\Algorithym\Algorithym\obj\Debug\Algorithym.csproj.GenerateResource.cache
+C:\Cshap\Algorithym\Algorithym\obj\Debug\Algorithym.csproj.CoreCompileInputs.cache
+C:\Cshap\Algorithym\Algorithym\obj\Debug\Algorithym.exe
+C:\Cshap\Algorithym\Algorithym\obj\Debug\Algorithym.pdb
