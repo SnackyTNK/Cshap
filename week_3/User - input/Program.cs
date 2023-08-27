@@ -23,6 +23,7 @@ Console.WriteLine ("BMI is : " + BMI);               //ค่าดัชนี�
 
 
 //การบ้าน
+Console.WriteLine ("Sawasdee Welcome to calculate body mass index");
 
 string ID = " ";
 string prefix = " ";
@@ -30,6 +31,7 @@ string fname = " ";
 string lname = " ";
 double height = 0.0d;
 double weight = 0.0d;
+double BMI = 0.0d;
 
 Console.Write ("Student ID : ");                          //display รหัส
 ID = Console.ReadLine();                                  //input keyboard 
@@ -49,10 +51,15 @@ height = double.Parse(Console.ReadLine());                //input keyboard and c
 Console.Write ("input weight : ");                        //display น้ำหนัก
 weight = double.Parse(Console.ReadLine());                //input keyboard and convert
 
-Console.WriteLine ("******************************************");
+BMI = height/weight;                                      //หาร
+BMI = Math.Pow(BMI,2);                                    //การทำเลข ยกกำลัง
+
+
+Console.WriteLine ("***************************************************************");
 Console.WriteLine ("Student ID : " + ID );
 Console.WriteLine ("Full name : " + prefix +" "+fname+"  "+lname );
 Console.WriteLine ("height : " + height );
 Console.WriteLine ("weight : " + weight );
-Console.WriteLine ("******************************************");
+Console.WriteLine ("BMI is : " + BMI);                    //ค่าดัชนีมวลกาย
+Console.WriteLine ("***************************************************************");
 
