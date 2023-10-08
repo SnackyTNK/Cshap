@@ -1,0 +1,14 @@
+C:\Cshap\week_8\obj\Debug\net7.0\week_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cshap\week_8\obj\Debug\net7.0\week_8.AssemblyInfoInputs.cache
+C:\Cshap\week_8\obj\Debug\net7.0\week_8.AssemblyInfo.cs
+C:\Cshap\week_8\obj\Debug\net7.0\week_8.csproj.CoreCompileInputs.cache
+C:\Cshap\week_8\bin\Debug\net7.0\week_8.exe
+C:\Cshap\week_8\bin\Debug\net7.0\week_8.deps.json
+C:\Cshap\week_8\bin\Debug\net7.0\week_8.runtimeconfig.json
+C:\Cshap\week_8\bin\Debug\net7.0\week_8.dll
+C:\Cshap\week_8\bin\Debug\net7.0\week_8.pdb
+C:\Cshap\week_8\obj\Debug\net7.0\week_8.dll
+C:\Cshap\week_8\obj\Debug\net7.0\refint\week_8.dll
+C:\Cshap\week_8\obj\Debug\net7.0\week_8.pdb
+C:\Cshap\week_8\obj\Debug\net7.0\week_8.genruntimeconfig.cache
+C:\Cshap\week_8\obj\Debug\net7.0\ref\week_8.dll
