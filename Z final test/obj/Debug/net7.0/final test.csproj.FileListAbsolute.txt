@@ -1,0 +1,14 @@
+C:\Cshap\final test\bin\Debug\net7.0\final test.exe
+C:\Cshap\final test\bin\Debug\net7.0\final test.deps.json
+C:\Cshap\final test\bin\Debug\net7.0\final test.runtimeconfig.json
+C:\Cshap\final test\bin\Debug\net7.0\final test.dll
+C:\Cshap\final test\bin\Debug\net7.0\final test.pdb
+C:\Cshap\final test\obj\Debug\net7.0\final test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cshap\final test\obj\Debug\net7.0\final test.AssemblyInfoInputs.cache
+C:\Cshap\final test\obj\Debug\net7.0\final test.AssemblyInfo.cs
+C:\Cshap\final test\obj\Debug\net7.0\final test.csproj.CoreCompileInputs.cache
+C:\Cshap\final test\obj\Debug\net7.0\final test.dll
+C:\Cshap\final test\obj\Debug\net7.0\refint\final test.dll
+C:\Cshap\final test\obj\Debug\net7.0\final test.pdb
+C:\Cshap\final test\obj\Debug\net7.0\final test.genruntimeconfig.cache
+C:\Cshap\final test\obj\Debug\net7.0\ref\final test.dll
